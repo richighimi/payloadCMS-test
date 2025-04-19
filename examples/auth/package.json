@@ -23,7 +23,7 @@
     "cross-env": "^7.0.3",
     "next": "^15.2.3",
     "payload": "latest",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-dom": "19.0.0",
     "react-hook-form": "^7.51.3"
   },
